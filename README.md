@@ -44,6 +44,6 @@
 <hr>
 
 <p align="center">
-  <strong>💡 Inovação com propósito, tecnologia com resultado.</strong>
+  <strong>💡 Inovação com propósito, tecnologia com resultado.</strong> <br/>
   <strong>nicholas@pilgrimsconsulting.com.br & fabio@pilgrimsconsulting.com.br</strong>
 </p>
