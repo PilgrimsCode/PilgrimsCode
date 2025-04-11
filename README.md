@@ -25,3 +25,24 @@
 [![Static Badge](https://img.shields.io/badge/website-blac)](https://pilgrimsconsulting.com.br/)
 [![Static Badge](https://img.shields.io/badge/linkedin-black)](https://br.linkedin.com/company/pilgrims-consulting)
 </div>
+
+<div align="center">
+  <h2>Pilgrims Consulting</h2>
+  <p><em>Transformando tecnologia em resultados reais</em></p>
+</div>
+
+<hr>
+
+<p>
+  <strong>Pilgrims Consulting</strong> foi fundada por profissionais de TI com o propósito de ajudar empresas a alcançarem seus objetivos tecnológicos de forma eficaz. Nossa missão é levar inovação ao cotidiano dos negócios, mantendo-os alinhados com as mais recentes tendências do mercado.
+</p>
+
+<p>
+  Somos especializados em serviços que demandam <strong>alta performance</strong> e <strong>confiabilidade</strong>, com um portfólio diversificado que atende setores como:
+</p>
+
+<hr>
+
+<p align="center">
+  <strong>💡 Inovação com propósito, tecnologia com resultado.</strong>
+</p>
