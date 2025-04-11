@@ -9,7 +9,7 @@
   
 <img
         align="right"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=PilgrimsCode&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&cache_seconds=2300&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=PilgrimsCode&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&cache_seconds=2300&hide_border=true"
         alt="Github Stats"
       />
 </p>
