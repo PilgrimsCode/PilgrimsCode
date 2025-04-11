@@ -22,6 +22,6 @@
 
 <div align="center">
 
-[![Static Badge](https://img.shields.io/badge/website-black)]()
-[![Static Badge](https://img.shields.io/badge/linkedin-black)]()
+[![Static Badge](https://img.shields.io/badge/website-blac)](https://pilgrimsconsulting.com.br/)
+[![Static Badge](https://img.shields.io/badge/linkedin-black)](https://br.linkedin.com/company/pilgrims-consulting)
 </div>
